@@ -1,0 +1,68 @@
+body{
+    background-color: #FFFFFF;
+    color:#585858;
+    text-align:center;
+    padding: 15px;
+    
+  
+}
+
+h1{
+    font-size:40px;
+    padding: 5px;
+    color: #424242;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+
+}
+
+h2{
+    font-size:13px;
+    font-weight: bolder;
+    color: #4D4BBB;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 800;
+
+
+}
+
+
+.link-item{
+    margin-left:10px;
+    margin-right:10px;
+    display: inline-block;
+    color:#01A9DB;
+    text-decoration: none;
+    font-size: 14px;
+}
+.content {
+    width: 400px;
+    background-color: #fff;
+    padding: 10px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    box-shadow:
+        0 0 0 6px hsl(0, 0%, 30%),
+        0 0 0 9px hsl(0, 0%, 85%);
+
+
+
+}
+
+#con2 {
+    content: " ";
+    width: 600px;
+    height: 300px;
+    border-color: white;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    background-color: #A8C6F2;
+    position: center;
+    background-image:url("https://cdn.vectorstock.com/i/composite/73,16/waves-and-clouds-vector-877316.jpg");
+}
+
+
